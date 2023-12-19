@@ -1,3 +1,6 @@
 name: Captcha2
 version: '${version}'
 main: lc.captcha2.Captcha2
+commands:
+  captcha:
+    description: descuido
